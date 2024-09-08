@@ -1,4 +1,4 @@
-# cloudflare
+# Cloudflare
 Domains using Cloudflare:
 - [destacamos.com](https://destacamos.com)
 - [destresate.com](https://destresate.com)
